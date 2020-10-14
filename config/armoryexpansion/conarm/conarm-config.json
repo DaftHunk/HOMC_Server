@@ -1340,7 +1340,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "electrumflux",
+    "name": "knightmetal",
     "material": true,
     "fluid": true,
     "traits": true,
@@ -1392,7 +1392,7 @@
       "enableFletching": false,
       "enableProjectile": false
     },
-    "name": "knightmetal",
+    "name": "electrumflux",
     "material": true,
     "fluid": true,
     "traits": true,

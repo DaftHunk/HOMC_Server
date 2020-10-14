@@ -1123,22 +1123,22 @@
   },
   {
     "coreMaterialStats": {
-      "durability": 51.0,
-      "defense": 50.0,
+      "durability": 42.0,
+      "defense": 27.0,
       "materialType": "core"
     },
     "platesMaterialStats": {
-      "durability": 25.494738,
-      "modifier": 50.0,
+      "durability": 44.210526,
+      "modifier": 26.470587,
       "toughness": 0.0,
       "materialType": "plates"
     },
     "trimMaterialStats": {
-      "extraDurability": 25.494738,
+      "extraDurability": 44.210526,
       "materialType": "trim"
     },
-    "identifier": "electrumflux",
-    "color": -2709,
+    "identifier": "knightmetal",
+    "color": -3873106,
     "type": "METAL",
     "castable": true,
     "craftable": false
@@ -1167,22 +1167,22 @@
   },
   {
     "coreMaterialStats": {
-      "durability": 42.0,
-      "defense": 27.0,
+      "durability": 51.0,
+      "defense": 50.0,
       "materialType": "core"
     },
     "platesMaterialStats": {
-      "durability": 44.210526,
-      "modifier": 26.470587,
+      "durability": 25.494738,
+      "modifier": 50.0,
       "toughness": 0.0,
       "materialType": "plates"
     },
     "trimMaterialStats": {
-      "extraDurability": 44.210526,
+      "extraDurability": 25.494738,
       "materialType": "trim"
     },
-    "identifier": "knightmetal",
-    "color": -3873106,
+    "identifier": "electrumflux",
+    "color": -2709,
     "type": "METAL",
     "castable": true,
     "craftable": false
