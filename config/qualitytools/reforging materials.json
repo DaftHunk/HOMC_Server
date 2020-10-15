@@ -982,26 +982,10 @@
   },
   {
     "tool": {
-        "item": "potionfingers:ring"
-    },
-    "material": {
-        "item": "minecraft:gold_ingot"
-    }
-  },
-  {
-    "tool": {
         "item": "bountifulbaubles:amuletcross"
     },
     "material": {
         "item": "bountifulbaubles:spectralsilt"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:sea_stone"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
     }
   },
   {
@@ -1038,34 +1022,10 @@
   },
   {
     "tool": {
-        "item": "xat:ender_tiara"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:poison_stone"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
         "item": "bountifulbaubles:trinketobsidianskull"
     },
     "material": {
         "item": "bountifulbaubles:spectralsilt"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:dragons_eye"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
     }
   },
   {
@@ -1171,141 +1131,5 @@
     "material": {
         "item": "bountifulbaubles:spectralsilt"
     }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:explosion_pickaxe"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:gamble_pickaxe"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:vein_pickaxe"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:hasty_pickaxe"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:obsidian_harvester"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:bound_pickaxe"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:bound_axe"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "forgottenitems:bound_shovel"
-    },
-    "material": {
-        "item": "minecraft:obsidian"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:glow_ring"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:fairy_ring"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:dwarf_ring"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:wither_ring"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:weightless_stone"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:inertia_null_stone"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:greater_inertia_stone"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:polarized_stone"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  },
-  {
-    "tool": {
-        "item": "xat:damage_shield"
-    },
-    "material": {
-        "item": "xat:glowing_ingot"
-    }
-  }
+  }  
 ]

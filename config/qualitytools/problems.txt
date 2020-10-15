@@ -1,1 +1,1 @@
-reforging materials.json: Unknown item spartanfire:greatsword_fire_dragonbone
+reforging materials.json: Unknown item potionfingers:ring
