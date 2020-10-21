@@ -1,12 +1,7 @@
 [
   {
-    "content": "minecraft:gold_nugget",
-    "unitWorth": 100,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:gold_ingot",
-    "unitWorth": 900,
+    "content": "ordinarycoins:coinbronze",
+    "unitWorth": 10,
     "weight": 100
   },
   {
