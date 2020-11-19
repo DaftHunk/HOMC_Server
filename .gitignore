@@ -9,6 +9,7 @@ llibrary/
 logs/
 mods/memory_repo/
 mods/1.12.2/
+mods/# LibLoader.jar
 crafttweaker.log
 usercache.json
 backups/
