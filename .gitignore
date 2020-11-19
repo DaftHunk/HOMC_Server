@@ -3,6 +3,7 @@ config/jei/worldSettings.cfg
 config/mobends.cfg
 config/jei/worldSettings.cfg
 config/forestry/common.cfg
+.mixin.out/
 Biome Bundle/
 libraries/
 llibrary/
@@ -10,3 +11,6 @@ logs/
 mods/memory_repo/
 mods/1.12.2/
 crafttweaker.log
+usercache.json
+backups/
+Biome Bundle-*.zip
