@@ -21,10 +21,10 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "DENSE",
-    "HOT",
     "HILLS",
-    "WET",
-    "JUNGLE"
+    "HOT",
+    "JUNGLE",
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -63,48 +63,6 @@
       "Weight": 10,
       "Min Group Count": 4,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     }
   ],
   "Spawnable Monsters": [

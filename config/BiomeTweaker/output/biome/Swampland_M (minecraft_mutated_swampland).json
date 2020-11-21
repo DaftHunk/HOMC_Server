@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "HILLS",
-    "WET",
+    "SWAMP",
     "RARE",
-    "SWAMP"
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -50,48 +50,6 @@
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "vibrantjourneys.entities.passive.EntityDuck",

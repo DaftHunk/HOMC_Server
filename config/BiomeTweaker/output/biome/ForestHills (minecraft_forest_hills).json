@@ -44,48 +44,6 @@
       "Max Group Count": 4
     },
     {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
       "Entity Class": "familiarfauna.entities.EntityDeer",
       "Weight": 8,
       "Min Group Count": 2,

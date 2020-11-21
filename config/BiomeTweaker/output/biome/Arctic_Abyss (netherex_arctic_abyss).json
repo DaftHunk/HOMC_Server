@@ -22,9 +22,9 @@
   "Dictionary Types": [
     "COLD",
     "DRY",
+    "PLAINS",
     "NETHER",
-    "WET",
-    "PLAINS"
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],

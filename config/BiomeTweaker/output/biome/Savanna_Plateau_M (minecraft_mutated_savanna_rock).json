@@ -20,11 +20,11 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "DRY",
-    "HOT",
-    "SPARSE",
-    "HILLS",
     "SAVANNA",
+    "HILLS",
+    "DRY",
+    "SPARSE",
+    "HOT",
     "RARE"
   ],
   "BiomeManager Entries": {},
@@ -62,48 +62,6 @@
     {
       "Entity Class": "net.minecraft.entity.passive.EntityDonkey",
       "Weight": 1,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

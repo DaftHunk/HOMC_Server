@@ -20,10 +20,10 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "COLD",
     "HILLS",
-    "FOREST",
-    "CONIFEROUS"
+    "COLD",
+    "CONIFEROUS",
+    "FOREST"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -50,48 +50,6 @@
       "Weight": 4,
       "Min Group Count": 2,
       "Max Group Count": 3
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "com.github.alexthe666.iceandfire.entity.EntityHippogryph",
-      "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
     },
     {
       "Entity Class": "familiarfauna.entities.EntityDeer",

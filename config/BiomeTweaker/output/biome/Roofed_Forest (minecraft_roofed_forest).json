@@ -22,9 +22,9 @@
   "Dictionary Types": [
     "SPOOKY",
     "DENSE",
-    "BIRCH_TREES",
+    "THEMED_TREES",
     "FOREST",
-    "THEMED_TREES"
+    "BIRCH_TREES"
   ],
   "BiomeManager Entries": {
     "WARM Weights": [
