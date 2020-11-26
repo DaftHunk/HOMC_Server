@@ -1,3 +1,546 @@
-§e# Add Your ChangeLog to §c'changelog.txt'§r in the config files
+## Version 1.12.2.49
+### Added 
+- BiomeTweaker-1.12.2-3.2.368
+- BiomeTweakerCore-1.12.2-1.0.39
+- Tips-1.12.2-1.0.9
+- base-1.12.2-3.13.0
+- ContentTweaker-1.12.2-4.9.1
+- mcw-roofs-1.0.2-mc1.12.2
+- Born+In+A+Barn+V1.8-1.12-1.1
+- TickProfiler-1.12-0.0.10
+- sampler-1.84
 
-You can use Minecrafts §9Color §2Codes §6to§r §nmake your changlogs look Good.
+### Removed 
+- BaublesHud-1.12.2-5.0.2
+- incontrol-1.12-3.9.18
+- dailies-1.12.2-6
+- placeableitems-3.3
+- StuffASockInIt-1.12.2-1.1.30
+- twilightforest-1.12.2-3.11.1021-universal
+- dynamictreesTheTwilightForest-1.12.2-1.2.2
+- instantunify-1.12.2-1.1.2
+- aether-1.12.2-v1.5.2
+- lost-aether-content-1.12.2-1.0.2
+- dynamictreesTheAether-1.12.2-1.0.11
+- LagGoggles-1.12.2-5.8-132
+- TickCentral-3.1
+
+### Updated
+- DynamicTrees-1.12.2-0.9.21
+- DynamicTreesPlants-1.12.2-1.0.3
+- DynamicTreesTinkersConstruct-1.12.2-1.2.6
+- DynamicTreesForestry-1.12.2-1.0.9
+- DynamicTreesPHC-1.12.2-2.0.5
+- CraftTweaker2-1.12-4.1.20.602
+- MCTImmersiveTechnology-1.12.2-1.8.87
+- rustic-1.1.7
+- TickCentral-3.1
+- llibrary-1.7.20-1.12.2
+
+### Tweaked
+- Nerf Pam's chests
+- Shader improvements
+- Performance improvements
+- Disabled Hippogryph
+
+### Fixed
+- Removed chunk claiming
+- Sugar canes are white #2
+- Shader breaks texts and minecolonies projection #3
+- Viewing entities through wall
+- Invisible horse after dismount #4
+
+## Version 1.12.2.48
+### Added
+- PotionCore-1.9_for_1.12.2
+- Bookshelf-1.12.2-2.3.590
+- GameStages-1.12.2-2.0.123
+- ItemStages-1.12.2-2.0.49
+- DimensionStages-1.12.2-2.0.23
+
+### Updated
+- incontrol-1.12-3.9.18
+- CreativeCore_v1.10.34_mc1.12.2
+- MCTImmersiveTechnology-1.12.2-1.8.85
+- DynamicSurroundings-1.12.2-3.6.2.1
+- DynamicTrees-1.12.2-0.9.20
+- dynamictreesTheTwilightForest-1.12.2-1.2.2
+- DynamicTreesTinkersConstruct-1.12.2-1.2.5
+- DynamicTreesQuark-1.12.2-1.0.6
+- DynamicTreesPlants-1.12.2-1.0.2
+- DynamicTreesForestry-1.12.2-1.0.8
+- DynamicTreesPHC-1.12.2-2.0.4
+
+### Removed
+- LabyMod-3
+
+### Tweaked
+- Tweaked a lot of things
+- Performance optimizations
+- Added a lot of textures for HOMC resources 
+- Do ranks instead of op
+- Make default options (keys, shader, resources pack)
+- Minecraft will take less often 100% CPU
+- Disabled Nether Portal making, now you need to find them by exploring
+- Disabled other portals for now (they will be using for events)
+
+### Fixed
+- Fixed a lot of bugs
+- Crashed while retrieving a placed potion off the ground
+- Crash when throwing a rotten egg
+- HUD sometimes gets messed up
+- When pouring liquids into Immersive Engineering barrels, they instead spawn as a block next to it
+- Coins sprite has reverted back to old version
+- Fixed broken thaumcraft gui
+- Atlas bug de texture dans certains biome (prairie apparaît comme océan)
+
+## Version 1.12.2.47
+### Added
+- B3M-1.12.2-17
+- Pam's BrewCraft
+- DefaultOptions_1.12.2-9.2.8
+- statues-rechiseled-1.12.2-1.0.1
+- JAOPCA-1.12.2-2.2.8.103
+- growthcraft-1.12.2-4.2.0
+- MmmMmmMmmMmm-1.12-1.14
+- tumbleweed-1.12-0.4.7
+- lemonlib-1.12.2-1.3.0
+- WrapUp-1.12-1.1.3
+
+### Removed
+- QualityTools-1.0.7_for_1.12.2
+- PotionCore-1.9_for_1.12.2
+
+### Updated
+- CreativeCore_v1.10.32_mc1.12.2
+- DynamicTrees-1.12.2-0.9.18
+- DynamicTreesPHC-1.12.2-2.0.3
+- DynamicTreesBOP-1.12.2-1.4.3
+- dynamictreesTheTwilightForest-1.12.2-1.1.6
+- dynamictreesTheAether-1.12.2-1.0.11
+- dynamictreesTConstruct-1.12.2-1.2.4
+- dynamictreesplants-1.12.2-1.0.1
+- dynamictreesQuark-1.12.2-1.0.5
+- ThaumicAugmentation-1.12.2-2.0.9
+
+### Tweaks
+- Changed shaders to Sildurs Vibrant Shaders v1.281 Medium
+- Revert copper ingot texture
+- Focus Manipulator GUI is broken, need to delete "assets\thaumcraft\textures\gui\gui_wandtable.png" from the ressource pack
+- Nerf heart containers to 1 heart.
+- Nerf again mob health 
+- Cap max health to 80 hearts
+- Remove aether resource pack
+- Disable aether tips
+- Disable forestry, harvestcraft, rustic bees
+
+### Fixed
+- Vanilla swords and armours with random attributes conflict with MineColonies building requirements
+- Possibilité de dupliquer l'ambre, du fait de la compatibilité entre Biome O' Plenty et Thaumcraft. Dans le premier cas, le bloc d'Ambre demande 9 ambres et en redonne 9, dans le second, il en demande 4 et en redonne 4 => Disabled biomesoplenty:gem_block recipe
+
+## Version 1.12.2.46
+### Updated
+- HOMC resources pack
+- UniDict-1.12.2-2.9.8
+- MCTImmersiveTechnology-1.12.2-1.8.84
+- CreativeCore_v1.10.29_mc1.12.2
+- DynamicSurroundings-1.12.2-3.6.2.0
+- MixinBootstrap-1.0.5
+- Patchouli-1.0-22
+
+### Removed
+- inventorysorter-1.12.2-1.13.3+57
+
+### Tweaked
+- Decrease hunger rate and get back food saturation 
+- Add craft for locks
+- Add craft for coin/emerald conversion
+- Replace rewards from bountiful with coins
+- Increase forging error tolerance
+- Remove inspiration lock
+- Moved some quark buttons
+
+### Fixed
+- Can't craft vanilla iron helmet, chestplate, and boots, anymore (Tinker forging)
+- Invalid biome configuration entered for entity * (biome was mistyped or a biome mod was removed?): abyssalcraft:*
+- Harvestcraft fresh water duplication
+- Quark integrations
+- Catching java.io.IOException: Server returned HTTP response code: 403 for URL: http://www.bibliocraftmod.com/vcheck/version.txt
+
+## Version 1.12.2.44
+### Removed
+- First Aid
+
+### Added
+- LabyMod-3_1.12.2
+- VoiceChat
+- HungerOverhaul-1.12.2-1.3.3.jenkins148
+- CosmeticArmorReworked-1.12.2-v5a
+
+### Updated
+- HOMC resources pack (most of modded ores, a lot of tools and weapons)
+
+### Tweaks
+- Added more heating sources
+- Reworked hunger, regen, heart and difficulty scaling
+- Buff firestarter chance to ignite firepit
+
+## Version 1.12.2.43
+### Removed
+- AbyssalCraft+Integration-1.12.2-1.11.2
+- AbyssalCraft-1.12.2-1.10.2
+
+### Fixed
+- Locks patch doesn't work
+
+### Tweaked
+- Remove miners from morpheus
+- Hide global achivements
+- Hide death message
+- Disable pregen ui
+- Disable life recovery
+- Disable nvidia gpu
+- Disable ingots being hot when cast from the smelter
+- Make hunger decrease more over time
+- Buff temperature protection from wool armor
+- Make flint and iron recipe
+- Invisible ennemies
+- Add temperature liners to Tinker armors
+
+## Version 1.12.2.42
+### Updated
+- HOMC Resources pack  
+
+### Fixed
+- Ranged projectiles all deal the same amount of damage.
+- Skeletons one shot in the head, even with strong helmet on
+- Skeletons are too accurate
+
+### Tweaked
+- Disable charm crates
+- Decreased abyssal spawn chances
+- Decreased dungeons tactic spawn chances
+- Disable colored sheeps
+- Rework ore generation
+- Disable quark magic elements
+- Decrease heating time on tinker's forging
+- Make ore more shiny
+- Remove overworld quartz
+- Disable forestry crates
+
+## Version 1.12.2.41
+### Removed
+- [MixinCompat-0.8]
+- movingworld-1.12-6.353-full
+- performant-1.12.2-1.10
+- MixinBootstrap-1.0.4
+- DynamicLights-1.12.2
+- davincisvessels-1.12-6.355-full
+- Surge-1.12.2-2.0.79
+- externaltweaker-1.12-0.3
+
+### Updated
+- tweakersconstruct-1.12.2-1.5.5
+- FTBQuests-1202.9.0.13
+- DoggyTalents-1.12.2-1.15.1.6
+
+### Tweaked
+- Fixed a lot of things 
+- Performance improvement
+- Resource pack fixed
+
+## Version 1.12.2.40
+### Fixed
+- Regression from 38
+
+## Version 1.12.2.39
+### Added
+- gravestone-1.10.3
+
+### Removed
+- corpse-1.12.2-1.0.8
+
+### Tweaked
+- Slow down metal cooling, and speed up the forge heating process
+- Copy configs to client
+- Remove logs recipe
+- Performance tweaks
+- Disable round logs
+- Disable PVJ biomes
+- Disable clusters
+
+## Version 1.12.2.38
+### Removed
+- weather2-1.12.1-2.6.12
+- Reskillable-1.12.2-1.13.0
+- CompatSkills-1.12.2-1.17.0
+
+### Tweaked
+- Speed down furnaces
+- Check member rights
+- Scaling heart show vanilla heart
+- Move and hide body parts
+- Remove starting book levelup
+- Disable smooth fps
+- Decrease hunger more quickly
+
+## Version 1.12.2.37
+### Tweaked
+- Configs redone from scratch
+- Performance improvements
+
+## Version 1.12.2.36
+### Added
+- twilightforest-1.12.2-3.11.1021-universal
+- dynamictreesTheTwilightForest-1.12.2-1.1.4
+- AbyssalCraft-1.12.2-1.10.2
+- weather2-1.12.1-2.6.12
+- Customized-Dungeon-Loot-1.12+-(v.1.0.3)
+- incontrol-1.12-3.9.17
+- tinkersforging-1.1.4
+- ordinarycoins-1.12.2-1.5
+- AbyssalCraft+Integration-1.12.2-1.11.2
+- movingworld-1.12-6.353-full
+- davincisvessels-1.12-6.355-full
+- Patchouli-1.0-21
+
+### Removed
+- Geolosys-1.12.2-3.0.10
+- millenaire-8.1.0
+
+### Updated
+- Added new textures to homc resource pack
+
+### Fixed
+- Chest search bar covers the sorting buttons
+
+### Tweaked
+- Disable reskillable perks
+- Lots of tweaks and improvements
+- Reworked ore generation
+- Removed modern's heroic armory weapons
+- Reduced heroic armory weapons chance
+
+## Version 1.12.2.35
+### Added
+- LagGoggles-1.12.2-5.8-132
+- performant-1.12.2-1.10
+- Surge-1.12.2-2.0.79
+- RecurrentComplex-1.4.8.2
+- mpbasic-1.12.2-1.4.11
+- MPUtils-1.12.2-1.5.7
+- bettercaves-1.12.2-2.0.4
+- savemystronghold-1.12.2-1.0.0
+- IvToolkit-1.3.3-1.12
+- [MixinCompat-0.8]
+- MixinBootstrap-1.0.4
+- Geolosys-1.12.2-3.0.10
+- SnowRealMagic-0.3.3
+- inventorysorter-1.12.2-1.13.3+57
+- MCTImmersiveTechnology-1.12.2-1.8.82
+- unloader-1.2.0
+- Chunk+Pregenerator+V1.12-2.4E
+- TickCentral-2.6
+
+### Removed
+- landlust-1.12.2-0.3.6
+- TinkerToolLeveling-1.12.2-1.1.0
+- ThaumicInventoryScanning_1.12.2-2.0.10
+- OreExcavation-1.4.150
+- oeintegration-2.3.4
+- ordinarycoins-1.12.2-1.5
+- itechoredict-1.0.0
+- InventoryTweaks-1.63
+- immersivetech-1.12-1.3.10
+
+### Updated
+- ToughAsNails-1.12.2-3.1.0.141-universal
+- randompatches-1.12.2-1.22.1.7
+- phosphor-forge-mc1.12.2-0.2.7-universal
+- PassableLeaves-1.12.2-2.0.2
+- CreativeCore_v1.10.27_mc1.12.2
+- Charm-1.12.2-1.4
+- BetterMineshaftsForge-1.12.2-2.1.1
+
+### Tweaks
+- Fire spreading disabled
+- Tamed mob griefing disabled
+- Make longer seasons
+
+## Version 1.12.2.34
+### Updated
+- levelup2-1.5.8
+
+## Version 1.12.2.32
+### Added
+- Beta version of Homc resources pack 
+
+### Tweaks
+- Remove Deposit button
+- Remove Aether button
+
+## Version 1.12.2.31
+### Added
+- ImmersiveRailroading-1.7.3_1.12.2
+- instantunify-1.12.2-1.1.2
+- TrackAPI-1.2
+- UniDict-1.12.2-2.9.7
+- WanionLib-1.12.2-2.5
+
+### Removed
+- railcraft-12.0.0
+
+### Tweaks
+- Unified ores
+- Remove doggy book
+- Remove Tinker book
+- Create wood plank recipes 
+- Remove day attack
+- Removed chunks
+- Sync configs
+- Remove Dungeon 3D models
+
+### Bugfixes
+- Server ip isn't registered
+- Fixed bad packet error
+
+## Version 1.12.2.30
+### Removed
+- ImprovedBackpacks-1.12.2-1.5.0.0
+
+## Version 1.12.2.29
+### Removed 
+- ItemPhysic Lite 1.3.7 mc1.12.2
+### Added
+- ItemPhysic_Full_1.4.34_mc1.12.2
+- thaumicperiphery-0.3.1
+
+## Version 1.12.2.28
+### Removed
+- spartancompat-1.2.3
+- spartanfire-0.08
+- SpartanWeaponry-1.12.2-beta-1.3.8
+- SpartanWeaponryArcana-1.12.2-beta-1.0.3
+- HorsePower-1.12.2-2.6.4.74
+
+### Added
+- DoggyTalents-1.12.2-1.15.1.5
+- ImprovedBackpacks-1.12.2-1.5.0.0
+- aether_continuation-1.12.2-v1.2.3
+- aether-1.12.2-v1.5.2
+- dynamictreesTheAether-1.12.2-1.0.9
+- lost-aether-content-1.12.2-1.0.2
+- DungeonTactics-1.12.2-0.16.9
+- extraalchemy-forge-1.12-build11-0.5.4
+
+### Fixed
+- BOP + NetherEX patch
+- astikor cart + carryon patch
+- BOP generation
+
+## Version 1.12.2.27
+### Added
+- AIImprovements-1.12.1-0.0.1b1
+- armoryexpansion-bitsandpieces-0.0.1
+- BiomesOPlenty-1.12.2-7.0.1.2444-universal
+- Clumps-3.1.2
+- crimsonrevelations-0.8
+- DynamicTreesBOP-1.12.2-1.4.2
+- JustEnoughIDs-1.0.3-55
+- placeableitems-3.3
+- ProgressiveBosses-1.5.4-mc1.12.x
+- randompatches-1.12.2-1.22.1.6
+- randomtweaks-1.12.2-2.8.2.0
+- ScalingHealth-1.12.2-1.3.42+147
+- SilentLib-1.12.2-3.0.14+168
+- ThaumicAugmentation-1.12.2-2.0.8
+- ThaumicInventoryScanning_1.12.2-2.0.10
+- VanillaTweaks-1.12.2-1.5.6
+- VTweaks-1.12.2-2.0.8
+
+### Removed
+- [MixinCompat-0.8]
+- anvilpatch-1.0.0
+- base-1.12.2-3.13.0
+- BetterBuildersWands-1.12-0.11.1.245+69d0d70
+- BetterWithLib-1.12-1.5
+- BetterWithMods-1.12-2.3.23
+- Biome_Bundle-1.12.2-v6.1
+- Born In A Barn V1.8-1.12-1.1
+- campfire-1.12-v1.2
+- Charset-Crafting-0.5.6.0
+- Charset-Immersion-0.5.6.0
+- Charset-Lib-0.5.6.4
+- Charset-StorageChests-0.5.6.0
+- ContentTweaker-1.12.2-4.9.1
+- corpsecomplex-1.12.2-1.0.11.1
+- CraftingTweaks_1.12.2-8.1.9
+- Cucumber-1.12.2-1.1.3
+- DummyCoreUnofficial-2.4.112.5
+- dynamictreesThaumicBases-1.12.2-1.1.1
+- gravestone-1.10.3
+- infinitylib-1.12.0
+- itlt-1.12.2-1.0.2
+- MixinBootstrap-1.0.4
+- NotEnoughIDs-1.5.4.4
+- OpenTerrainGenerator-1.12.2 - v8.3
+- Pam's+BrewCraft+1.12.2-1.0.2
+- performant-1.12.2-1.10
+- PickleTweaks-1.12.2-2.1.3
+- PotionFingers-r1.0-8
+- RealBench-1.12.2-1.3.3
+- RealisticTorches-1.12.2-2.1.1
+- signpost-1.12.2-1.08.3
+- sit-1.12.2-v1.3
+- tanspit-1.12.2-1.4
+- tektopia-1.1.0
+- Tektopia-Harvestcraft-Compat-1.3
+- TektopiaInformation-1.12.2-1.1.0-1.4.0
+- thaumicbases-3.3.500.6r
+- WanionLib-1.12.2-2.4
+- XPFromHarvest-1.12.2-1.2.0
+
+## Version 1.12.2.25
+### Added
+- biggerpacketsplz-since1.8-1.2
+
+### Fixed
+- Getting killed in the dark
+- No respawn in bed
+- Tried to read NBT tag that was too big
+- Hunger/Thrist was too quick
+
+## Version 1.12.2.22
+### Bugfixes
+- Removed fog
+
+### Added
+- [MixinCompat-0.8]
+- Cucumber-1.12.2-1.1.3
+- dynviewdist-1.12-1.3
+- gravestone-1.10.3
+- Hwyla-1.8.26-B41_1.12.2
+- mcw-doors-1.0.0-mc1.12.2
+- mcw-furniture-1.0.1-mc1.12.2beta
+- mcw-windows-1.0.0-mc1.12.2
+- MixinBootstrap-1.0.4
+- Morpheus-1.12.2-3.5.106
+- NetherPortalFix_1.12.1-5.3.17
+- performant-1.12.2-1.10
+- PickleTweaks-1.12.2-2.1.3
+
+### Removed
+- AIImprovements-1.12-0.0.1b3
+- RLTweaker-1.12.2-0.4.0
+- TombManyGraves-1.12-4.2.0
+- tombmanygraves2api-1.12.2-1.0.0
+- tombmanypluginswearablebackpacks-1.0.0
+
+## Version 1.12.2.21
+### Bugfixes
+- Reset UI-SCALE to normal
+- investigate on fixed textures (Fire, water) : client.disableTextureAnimations = false
+- Show GL Errors : Off
+
+### Removed
+- Millenaire Extended

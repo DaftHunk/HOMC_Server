@@ -1,0 +1,10 @@
+{ 
+	"doFireTick": { 
+		"value": false,
+		"forced": true
+	},
+	"mobGriefing": { 
+		"value": false,
+		"forced": true
+	}
+}

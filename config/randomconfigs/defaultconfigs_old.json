@@ -1,0 +1,14 @@
+[
+	{
+		"source": "options.txt",
+		"destination": "options.txt",
+		"side": "client",
+		"version": 1
+	},
+	{
+		"source": "optionsshaders.txt",
+		"destination": "optionsshaders.txt",
+		"side": "client",
+		"version": 1
+	}
+]
