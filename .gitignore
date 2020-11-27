@@ -15,10 +15,9 @@ usercache.json
 backups/
 Biome Bundle-*.zip
 world_homc-*.zip
-<<<<<<< Updated upstream
 world_homc/
-=======
 config/splash.properties
 crash-reports/
 local/ftbutilities/backups.json
->>>>>>> Stashed changes
+BBOP/
+BBOP-*.zip
