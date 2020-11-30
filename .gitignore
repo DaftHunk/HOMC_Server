@@ -1,18 +1,20 @@
 config/jei/bookmarks.ini
 config/jei/worldSettings.cfg
 config/mobends.cfg
-config/forestry/common.cfg
 .mixin.out/
-Biome Bundle/
 libraries/
-world_homc/
 llibrary/
 logs/
+crash-reports/
 mods/memory_repo/
 mods/1.12.2/
 mods/# LibLoader.jar
 crafttweaker.log
 usercache.json
 backups/
+BBOP/
+Biome Bundle/
+world_homc/
 Biome Bundle-*.zip
 world_homc-*.zip
+BBOP-*.zip
