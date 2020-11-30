@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:12
+renderDistance:8
 guiScale:0
 particles:0
 bobView:false
@@ -100,6 +100,15 @@ key_ir_keys.start_stop_engine:78
 key_ir_keys.bell:74
 key_ir_keys.config:181
 key_key.betterfoliage.gui:66
+key_quark.keybind.lockBuilding:37
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:40
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -118,24 +127,18 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
+key_keybind.baublesinventory:0
 key_key.conarm.toggle_helm.desc:0
 key_key.conarm.toggle_chest.desc:0
 key_key.conarm.toggle_leg.desc:0
-key_keybind.baublesinventory:0
 key_cos.key.opencosarmorinventory:0
+key_keybind.railcraft.cart.bed:208
 key_Toggle Magnetism Suppressor:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
 key_key.ftbquests.quests:0
+key_itemscroller.desc.toggledisable:31:CONTROL
+key_itemscroller.desc.recipe:31
 key_key.openNotes:49
 key_key.toggleFoVChanges:51:SHIFT
 key_key.reloadSoundSystem:66:SHIFT
@@ -157,6 +160,7 @@ key_key.wearablebackpacks.open:48
 key_key.pickup.item:-96
 key_key.dismount:42
 key_key.narrator:48:CONTROL
+key_smoothfont.key.guiOpen:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -168,26 +172,25 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_key.dragon_fireAttack:0
-key_key.dragon_strike:0
-key_key.dragon_down:0
+key_key.dragon_fireAttack:19
+key_key.dragon_strike:34
+key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_key.astikorcarts.desc:25
-key_Options Gui:23
+key_key.otghud.desc:24
 key_key.dungeontactics.rocketjump.desc:0
 key_key.dungeontactics.shieldbash.desc:0
 key_key.dungeontactics.trinket1.desc:0
 key_key.dungeontactics.trinket2.desc:0
 key_key.dungeontactics.trinket3.desc:0
 key_key.dungeontactics.trinket4.desc:0
+key_key.immersiveengineering.magnetEquip:0
+key_key.immersiveengineering.chemthrowerSwitch:0
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_key.immersiveengineering.magnetEquip:0
-key_key.immersiveengineering.chemthrowerSwitch:0
-key_Open Backpack:48
 key_LevelUpToggle:0
 key_LevelUpSkills:38
 key_Mo' Bends Menu:0
@@ -198,6 +201,11 @@ key_key.toolbelt.open:19
 key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_key.toolbelt.slot:0
+key_keybind.railcraft.loco.reverse:53:ALT
+key_keybind.railcraft.loco.faster:52:ALT
+key_keybind.railcraft.loco.slower:51:ALT
+key_keybind.railcraft.loco.mode:50:ALT
+key_keybind.railcraft.loco.whistle:49:ALT
 soundCategory_master:0.28145695
 soundCategory_music:0.0
 soundCategory_record:0.20422535
