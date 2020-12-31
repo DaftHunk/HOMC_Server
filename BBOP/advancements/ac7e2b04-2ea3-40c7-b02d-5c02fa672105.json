@@ -1,0 +1,23 @@
+{
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2020-12-31 01:50:27 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2020-12-31 01:51:48 +0100",
+      "chaparral": "2020-12-31 01:51:21 +0100",
+      "meadow": "2020-12-31 01:51:54 +0100",
+      "tundra": "2020-12-31 01:51:40 +0100"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert_hills": "2020-12-31 01:50:26 +0100"
+    },
+    "done": false
+  }
+}
