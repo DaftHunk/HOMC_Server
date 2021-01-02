@@ -6,7 +6,7 @@ ShowOTGWorldCreationMenu: true
 version: 1
 WorldName: "BBOP"
 Overworld:
-  PresetName: "BBOP"
+  PresetName: null
   DimensionId: 0
   ShowInWorldCreationGUI: true
   Seed: ""
@@ -55,10 +55,10 @@ Overworld:
     ItemsToAddOnLeaveDimension: ""
     ItemsToRemoveOnLeaveDimension: ""
     ItemsToAddOnRespawn: ""
-    SpawnPointSet: true
-    SpawnPointX: 704
-    SpawnPointY: 82
-    SpawnPointZ: 1016
+    SpawnPointSet: false
+    SpawnPointX: 0
+    SpawnPointY: 0
+    SpawnPointZ: 0
     PlayersCanBreakBlocks: true
     ExplosionsCanBreakBlocks: true
     PlayersCanPlaceBlocks: true
