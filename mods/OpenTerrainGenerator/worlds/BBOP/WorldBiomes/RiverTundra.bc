@@ -111,9 +111,9 @@ StoneBlock: STONE
 
 SurfaceBlock: biomesoplenty:grass:4
 
-GroundBlock: biomesoplenty:dirt:2
+GroundBlock: UNKNOWN_BLOCK:2
 
-SurfaceAndGroundControl: GRAVEL, STONE, -1.5, STONE, DIRT, -0.5, biomesoplenty:grass:4, biomesoplenty:dirt:2, 10.0 
+SurfaceAndGroundControl: GRAVEL, STONE, -1.5, STONE, DIRT, -0.5, biomesoplenty:grass:4, UNKNOWN_BLOCK:2, 10.0 
 
 ReplacedBlocks: (AIR,LAVA,1,10)
 
