@@ -55,9 +55,9 @@ Overworld:
     ItemsToAddOnLeaveDimension: ""
     ItemsToRemoveOnLeaveDimension: ""
     ItemsToAddOnRespawn: ""
-    SpawnPointSet: true
-    SpawnPointX: 1024
-    SpawnPointY: 63
+    SpawnPointSet: false
+    SpawnPointX: 568
+    SpawnPointY: 64
     SpawnPointZ: 1024
     PlayersCanBreakBlocks: true
     ExplosionsCanBreakBlocks: true
@@ -67,7 +67,7 @@ Overworld:
     DisableElytraMovementCheck: false
     DoDaylightCycle: true
     DoEntityDrops: true
-    DoFireTick: false
+    DoFireTick: true
     DoLimitedCrafting: false
     DoMobLoot: true
     DoMobSpawning: true
@@ -78,7 +78,7 @@ Overworld:
     LogAdminCommands: true
     MaxCommandChainLength: 65536
     MaxEntityCramming: 24
-    MobGriefing: false
+    MobGriefing: true
     NaturalRegeneration: true
     RandomTickSpeed: 3
     ReducedDebugInfo: false
